@@ -1,2 +1,2 @@
 # Machine-learning-Classification
-Capstone project on Machine Learning Regression Bike Sharing Demand Prediction
+Capstone project on Machine Learning Classification Health Insurance Cross Sell Prediction
