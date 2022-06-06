@@ -51,11 +51,17 @@ In the data we used it has Primum and Age both has outliers, outlier capping is 
 After implementing various models on the given data such as Logistic Regression, Decision Tree Classifier, XG boost, Naïve Bays Classifier, SGD Classifier, Cat Boost Classifier, KNN Classifier, Gradient Boosting Classifier, AdaBoost Classifier, Random Forest Classifier. We get maximum accuracy with Decision Tree Classifier, Random Forest Classifier, XG boost but in case of Decision Tree and Random forest accuracy is decreased for testing data it is the case of Over fitting. In case of XG Boost accuracy decreases but with less percentage here there is no problem of overfitting. XG Boost with train and test accuracy as 0.88 and 0.81 Decision Tree Classifier
  with train and test accuracy 0.99 and 0.80 Random Forest Classifier with train and test accuracy as 0.99 and 0.81
  # Conclusion 
+ 
 • There will be more profit if company sells both health and vehicle insurance.
+
 • Previously insured is important feature for cross sell.
+
 • After implementation of various models we got best results from Decision tree classifier, Random forest classifier and XG boost classifier. 
+
 • Decision tree and Random forest are over fitting so finally we decide to go with XG boost.
+
 • XG boost with train accuracy as 0.88 and test accuracy of 0.81
+
 # References 
 [1] “A Study on a car Insurance purchase Prediction Using Two-Class Logistic Regression and Two-Class Boosted Decision Tree” by Su Hyun AN1 , Seong Hee YEO2 , Minsoo KANG3
 [2]”A study on the meaning of automobile in the no insurance automobile injury insurance” by Choi, B. G
