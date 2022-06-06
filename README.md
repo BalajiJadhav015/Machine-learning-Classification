@@ -64,7 +64,9 @@ After implementing various models on the given data such as Logistic Regression,
 
 # References 
 [1] “A Study on a car Insurance purchase Prediction Using Two-Class Logistic Regression and Two-Class Boosted Decision Tree” by Su Hyun AN1 , Seong Hee YEO2 , Minsoo KANG3
+
 [2]”A study on the meaning of automobile in the no insurance automobile injury insurance” by Choi, B. G
+
 [3]”Cross-selling through database marketing: a mixed data factor analyzer for data augmentation and prediction” by Wagner A. Kamakura
 
 
