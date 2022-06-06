@@ -69,6 +69,9 @@ After implementing various models on the given data such as Logistic Regression,
 
 [3]”Cross-selling through database marketing: a mixed data factor analyzer for data augmentation and prediction” by Wagner A. Kamakura
 
+Any suggestions are welcomed...
+
+
 
 
 
